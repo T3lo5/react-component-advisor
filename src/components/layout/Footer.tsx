@@ -9,7 +9,7 @@ const Footer: React.FC = () => {
       </p>
       <p className="mt-2 text-sm">
         <a
-          href="https://github.com/seuprojeto/react-component-advisor"
+          href="https://github.com/T3lo5/react-component-advisor"
           target="_blank"
           rel="noopener noreferrer"
           className="text-primary-600 hover:underline"
@@ -23,4 +23,3 @@ const Footer: React.FC = () => {
 };
 
 export default Footer;
-//TODO: adicionar o link do git do projeto 
