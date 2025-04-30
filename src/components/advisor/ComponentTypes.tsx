@@ -13,7 +13,6 @@ const ComponentTypes: React.FC<ComponentTypesProps> = ({ componentTypes }) => {
         Entender os diferentes tipos de componentes ajuda a decidir onde
         implementar e como estruturar seu código.
       </p>
-      // Continuação do src/components/advisor/ComponentTypes.tsx
       <div className="overflow-x-auto">
         <table className="min-w-full bg-white rounded-lg overflow-hidden shadow-sm">
           <thead className="bg-gray-100">
