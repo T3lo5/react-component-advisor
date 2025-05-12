@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-component-advisor/static/css/main.160920d1.css",
-    "main.js": "/react-component-advisor/static/js/main.c28c8cdd.js",
+    "main.js": "/react-component-advisor/static/js/main.b9e3b9a7.js",
     "index.html": "/react-component-advisor/index.html",
     "main.160920d1.css.map": "/react-component-advisor/static/css/main.160920d1.css.map",
-    "main.c28c8cdd.js.map": "/react-component-advisor/static/js/main.c28c8cdd.js.map"
+    "main.b9e3b9a7.js.map": "/react-component-advisor/static/js/main.b9e3b9a7.js.map"
   },
   "entrypoints": [
     "static/css/main.160920d1.css",
-    "static/js/main.c28c8cdd.js"
+    "static/js/main.b9e3b9a7.js"
   ]
 }
